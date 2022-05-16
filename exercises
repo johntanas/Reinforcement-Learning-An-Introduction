@@ -92,3 +92,15 @@ apply greedy approach
 
 
 rewards[choice]= rewards[choice]*alpha
+
+Exercise 4.1 If π is the equiprobable random policy, what is qπ(11, down)?
+What is qπ(7, down)?
+-1
+-15
+Exercise 4.2 Suppose a new state 15 is added to the gridworld just below
+state 13, and its actions, left, up, right, and down, take the agent to states
+12, 13, 14, and 15, respectively. Assume that the transitions from the original
+states are unchanged. What, then, is vπ(15) for the equiprobable random
+policy? Now suppose the dynamics of state 13 are also changed, such that
+action down from state 13 takes the agent to the new state 15. What is vπ(15)
+for the equiprobable random policy in this case?
