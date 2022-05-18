@@ -1,0 +1,27 @@
+6.1:
+running as example.
+can make prediction on total time based on elasped time and TD would be better than monte carlo
+6.2
+the actions taken were walking to left and only V(A) was adjusted with value of 0.1(0-0.5)
+6.3
+no
+both MC and TD were improving at decreasing rates with decreasing the step size parameter
+6.4
+the RMS is increased as the function is updated continously and the inherenet variance of rewards cause the RMS to increase
+6.5
+equibleprobale actions would give rise to the values  (1)
+no of steps to reward could also give rise to the values (2)
+they used (1) likely
+6.6
+u can get there in 6 steps
+down right *6
+no
+there is no need for the 9th action of no movement
+6.9
+the learned action-value function,  directly approximates , the optimal action-value function, independent of the policy being followed.
+6.10
+on-policy
+worse
+policy might be bad -> expectation bad-> longer time
+
+
