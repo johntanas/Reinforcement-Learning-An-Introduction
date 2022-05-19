@@ -1,1 +1,12 @@
+7.1
+smaller walk -> smaller n better
+leftside outcome change from 0 to -1 makes no diff
+7.2:
+the on-line constant update to policy made on-line better
+7.3:
+odd no of states to look back on
+7.4
+t1/2 = ln(2)/lambda
+7.6
+same as book except condition that state trace > small positive constant
 
