@@ -1,1 +1,5 @@
+8.2 it was full-greedy and found action with better value
+8.3 the exploration resulted in less reward
+8.5 strengthen. the high probability b states will be more likely to considered and sampled, and the value will be skewed towardsthe higher probability cases
+8.6 chose only 1 state -> skewed value
 
